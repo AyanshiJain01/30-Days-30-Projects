@@ -154,9 +154,9 @@ You can follow this challenge and build the same projects yourself!
 
 ## 📬 Connect With Me
 
-[Add your LinkedIn link here]  
-[Add your YouTube link here]   # IN YOUTUBE BIO (CHECK IT OUT)
-[Add your Twitter/X link here]
+[LINKEDIN] - https://www.linkedin.com/in/ayanshi-jain-0128812aa/
+[YOUTUBE]  - https://www.youtube.com/@ayanshijainofficial
+
 
 ---
 
