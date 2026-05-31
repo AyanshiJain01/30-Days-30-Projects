@@ -39,9 +39,9 @@ I am challenging myself to build **30 mini projects in 30 days** to:
 
 ### 🐍 Week 1 — Python + FastAPI Foundation (Days 1–5)
 
-| Day |                  Project              |    Tech Used    |  Status  |       Short       |
-|-----|---------------------------------------|-----------------|----------|-------------------|
-| 01 |      CLI Todo App with File Storage    |      Python     | ⏳ Coming | - |
+| Day |                  Project              |    Tech Used    |    Status   |       Short       |
+|-----|---------------------------------------|-----------------|-------------|-------------------|
+| 01 |      CLI Todo App with File Storage    |      Python     | 💻 Building | - |
 | 02 |  Password Generator + Strength Checker |      Python     | ⏳ Coming | - |
 | 03 |      FastAPI Notes API with CRUD       |      FastAPI    | ⏳ Coming | - |
 | 04 |       URL Shortener with FastAPI       |      FastAPI    | ⏳ Coming | - |
