@@ -41,7 +41,7 @@ I am challenging myself to build **30 mini projects in 30 days** to:
 
 | Day |                  Project              |    Tech Used    |    Status   |       Short       |
 |-----|---------------------------------------|-----------------|-------------|-------------------|
-| 01 |      CLI Todo App with File Storage    |      Python     | 💻 Building | - |
+| 01 |      CLI Todo App with File Storage    |      Python     | ✅ DONE | - |
 | 02 |  Password Generator + Strength Checker |      Python     | ⏳ Coming | - |
 | 03 |      FastAPI Notes API with CRUD       |      FastAPI    | ⏳ Coming | - |
 | 04 |       URL Shortener with FastAPI       |      FastAPI    | ⏳ Coming | - |
