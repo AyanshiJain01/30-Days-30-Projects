@@ -53,7 +53,7 @@ I am challenging myself to build **30 mini projects in 30 days** to:
 
 | Day |               Project                |        Tech Used        |   Status  | Short |
 |-----|--------------------------------------|-------------------------|-----------|-------|
-|  06 |        Coding Activity Analyzer      |     Python + Pandas     | ⏳ Coming | - |
+|  06 |        Coding Activity Analyzer      |     Python + Pandas     | ⏳ Coming | [-](https://youtube.com/shorts/pJK5S_htCHk?si=CHfPkPYpjzj-5kNV) |
 |  07 |   Indian Job Market Data Visualizer  |     Pandas + Seaborn    | ⏳ Coming | - |
 |  08 |  Placement Season Tracker Dashboard  |   Matplotlib + Python   | ⏳ Coming | - |
 |  09 | Screen Time vs Productivity Analyzer |   Pandas + Matplotlib   | ⏳ Coming | - |
