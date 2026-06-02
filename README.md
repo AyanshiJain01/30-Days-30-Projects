@@ -42,7 +42,7 @@ I am challenging myself to build **30 mini projects in 30 days** to:
 | Day |                  Project              |    Tech Used    |    Status   |       Short       |
 |-----|---------------------------------------|-----------------|-------------|-------------------|
 | 01 |      CLI Todo App with File Storage    |      Python     | ✅ DONE  | https://youtube.com/shorts/pJK5S_htCHk?si=CHfPkPYpjzj-5kNV |
-| 02 |  Password Generator + Strength Checker |      Python     | ✅ DONE  | - |
+| 02 |  Password Generator + Strength Checker |      Python     | ✅ DONE  | https://youtube.com/shorts/9d_KEAZjZMo?si=80yLYK7aGYMwB8uC |
 | 03 |      FastAPI Notes API with CRUD       |      FastAPI    | ⏳ Coming | - |
 | 04 |       URL Shortener with FastAPI       |      FastAPI    | ⏳ Coming | - |
 | 05 |       Student CGPA Calculator API      |  FastAPI+Python | ⏳ Coming | - |
