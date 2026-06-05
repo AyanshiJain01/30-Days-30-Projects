@@ -253,6 +253,7 @@ Through this project, I learned:
 * Export result as PDF
 * Deploy the API
 
+Project completed successfully.
 ---
 
 ## Author
