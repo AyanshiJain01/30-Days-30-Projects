@@ -51,9 +51,9 @@ I am challenging myself to build **30 mini projects in 30 days** to:
 
 ### 📊 Week 2 — Data Science + Visualization (Days 6–10)
 
-| Day |               Project                |        Tech Used        |   Status  | Short |
-|-----|--------------------------------------|-------------------------|-----------|-------|
-|  06 |        Coding Activity Analyzer      |     Python + Pandas     | ✅ DONE | - |
+| Day |               Project                |        Tech Used        |   Status  | Youtube |
+|-----|--------------------------------------|-------------------------|-----------|---------|
+|  06 |        Coding Activity Analyzer      |     Python + Pandas     | ✅ DONE  | https://youtu.be/ygmF2ahFurY?si=j9LHrPMfVitbqnTe |
 |  07 |   Indian Job Market Data Visualizer  |     Pandas + Seaborn    | ⏳ Coming | - |
 |  08 |  Placement Season Tracker Dashboard  |   Matplotlib + Python   | ⏳ Coming | - |
 |  09 | Screen Time vs Productivity Analyzer |   Pandas + Matplotlib   | ⏳ Coming | - |
