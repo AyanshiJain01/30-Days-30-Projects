@@ -1,0 +1,166 @@
+date,platform,problems_solved,easy,medium,hard,time_spent_minutes,contest_given,rating,language,topic,notes
+08-12-2025,LeetCode,7,1,6,0,165,No,1418,C++,Graphs,Mixed practice set
+09-12-2025,LeetCode,4,1,2,1,152,No,1418,C++,Backtracking,Contest upsolve
+10-12-2025,LeetCode,5,1,4,0,152,No,1418,C++,Two Pointers,Revised old questions
+11-12-2025,Codeforces,1,1,0,0,34,No,1418,C++,Sliding Window,Mixed practice set
+12-12-2025,GFG,5,2,3,0,113,No,1418,C++,Two Pointers,Solved revision problems
+13-12-2025,LeetCode,4,3,1,0,91,No,1418,C++,Backtracking,Mixed practice set
+14-12-2025,Codeforces,5,3,2,0,107,No,1418,C++,Bit Manipulation,Good focused session
+15-12-2025,LeetCode,1,1,0,0,31,No,1420,C++,DP,Debugging practice
+16-12-2025,LeetCode,3,0,3,0,86,No,1420,C++,Arrays,Strong problem solving day
+17-12-2025,GFG,4,3,1,0,77,No,1423,C++,Greedy,Strong problem solving day
+18-12-2025,LeetCode,7,2,5,0,227,No,1423,C++,Stack,Good focused session
+19-12-2025,LeetCode,4,3,1,0,131,No,1423,C++,Queue,Strong problem solving day
+20-12-2025,LeetCode,2,0,2,0,50,No,1423,C++,Two Pointers,Low energy but consistent
+21-12-2025,GFG,6,5,1,0,127,No,1425,C++,Sorting,Solved revision problems
+22-12-2025,LeetCode,5,4,1,0,168,No,1425,C++,DP,Good focused session
+23-12-2025,GFG,3,2,1,0,93,No,1425,C++,Two Pointers,Interview prep
+24-12-2025,Codeforces,1,0,1,0,47,No,1425,C++,Sorting,Revised old questions
+25-12-2025,LeetCode,1,1,0,0,26,No,1425,C++,Sliding Window,Improved speed
+26-12-2025,LeetCode,5,1,3,1,186,No,1425,C++,Sliding Window,Good focused session
+27-12-2025,LeetCode,4,2,2,0,121,No,1425,C++,Recursion,Revised old questions
+28-12-2025,LeetCode,3,2,1,0,95,No,1425,Python,Graphs,Interview prep
+30-12-2025,LeetCode,4,3,1,0,92,No,1425,C++,Backtracking,Mixed practice set
+31-12-2025,LeetCode,2,1,1,0,49,No,1425,C++,Heap,Topic-wise practice
+01-01-2026,GFG,4,3,1,0,90,No,1425,Python,DP,Interview prep
+03-01-2026,GFG,4,3,1,0,104,Yes,1453,C++,Backtracking,Revised old questions
+04-01-2026,Codeforces,7,2,5,0,224,Yes,1459,C++,Stack,Topic-wise practice
+05-01-2026,GFG,6,4,2,0,180,No,1459,C++,DP,Revised old questions
+06-01-2026,GFG,5,1,4,0,163,No,1460,C++,Sorting,Improved speed
+07-01-2026,LeetCode,2,0,2,0,74,No,1460,C++,Strings,Low energy but consistent
+08-01-2026,GFG,5,2,3,0,168,No,1460,C++,Graphs,Interview prep
+09-01-2026,GFG,3,0,3,0,93,No,1460,C++,Arrays,Solved revision problems
+10-01-2026,GFG,3,0,3,0,84,No,1460,C++,Graphs,Contest upsolve
+11-01-2026,GFG,3,2,1,0,91,No,1460,Python,DP,Strong problem solving day
+12-01-2026,LeetCode,3,1,2,0,59,No,1460,C++,Binary Search,Interview prep
+13-01-2026,LeetCode,2,0,2,0,65,No,1460,C++,Bit Manipulation,Debugging practice
+14-01-2026,LeetCode,2,1,1,0,60,No,1460,C++,Strings,Low energy but consistent
+15-01-2026,LeetCode,4,1,2,1,140,No,1460,C++,Recursion,Practiced patterns
+17-01-2026,LeetCode,5,2,3,0,137,No,1460,C++,Sorting,Topic-wise practice
+18-01-2026,LeetCode,5,2,3,0,119,Yes,1466,C++,Strings,Strong problem solving day
+19-01-2026,GFG,5,0,5,0,162,No,1466,C++,Two Pointers,Improved speed
+20-01-2026,GFG,2,1,1,0,78,No,1466,C++,Sliding Window,Contest upsolve
+21-01-2026,LeetCode,5,1,3,1,191,No,1466,C++,Queue,Debugging practice
+22-01-2026,LeetCode,4,0,4,0,124,No,1466,C++,Strings,Topic-wise practice
+23-01-2026,LeetCode,4,2,1,1,100,No,1466,C++,Queue,Revised old questions
+24-01-2026,LeetCode,4,2,1,1,145,Yes,1472,C++,Sorting,Good focused session
+25-01-2026,LeetCode,9,8,1,0,225,Yes,1457,C++,Queue,Contest upsolve
+26-01-2026,Codeforces,5,4,1,0,168,No,1457,C++,Sliding Window,Debugging practice
+27-01-2026,LeetCode,5,1,4,0,133,No,1457,Python,Sorting,Improved speed
+28-01-2026,Codeforces,3,2,1,0,72,No,1457,C++,Queue,Solved revision problems
+29-01-2026,Codeforces,3,2,1,0,96,No,1457,C++,Greedy,Solved revision problems
+30-01-2026,LeetCode,1,0,1,0,31,No,1457,Python,Recursion,Topic-wise practice
+31-01-2026,LeetCode,4,2,2,0,112,No,1457,C++,Recursion,Interview prep
+01-02-2026,LeetCode,3,0,3,0,125,No,1457,C++,DP,Topic-wise practice
+02-02-2026,GFG,2,1,1,0,47,No,1457,Python,Greedy,Improved speed
+04-02-2026,GFG,2,0,2,0,67,No,1457,C++,Arrays,Solved revision problems
+05-02-2026,LeetCode,4,3,1,0,94,No,1457,Python,Recursion,Practiced patterns
+06-02-2026,LeetCode,3,2,1,0,67,No,1457,C++,DP,Mixed practice set
+07-02-2026,LeetCode,3,2,1,0,72,No,1458,C++,Sliding Window,Revised old questions
+09-02-2026,LeetCode,3,0,3,0,83,No,1458,C++,Trees,Mixed practice set
+10-02-2026,LeetCode,5,0,5,0,164,No,1458,C++,Trees,Topic-wise practice
+11-02-2026,GFG,4,3,1,0,78,No,1458,C++,Heap,Strong problem solving day
+12-02-2026,LeetCode,3,2,1,0,90,No,1458,C++,Graphs,Good focused session
+13-02-2026,GFG,3,2,1,0,87,No,1458,C++,Bit Manipulation,Practiced patterns
+15-02-2026,LeetCode,4,3,1,0,107,Yes,1474,Python,Hashing,Good focused session
+16-02-2026,GFG,4,1,3,0,107,No,1474,C++,Stack,Good focused session
+17-02-2026,GFG,2,0,2,0,60,No,1474,C++,Heap,Debugging practice
+18-02-2026,LeetCode,3,0,3,0,79,No,1474,C++,Sliding Window,Debugging practice
+19-02-2026,LeetCode,2,1,1,0,52,No,1475,C++,Heap,Interview prep
+20-02-2026,Codeforces,2,1,1,0,56,No,1475,C++,Backtracking,Good focused session
+21-02-2026,GFG,5,2,2,1,127,Yes,1491,C++,Bit Manipulation,Improved speed
+22-02-2026,LeetCode,6,1,5,0,164,No,1491,C++,Binary Search,Interview prep
+23-02-2026,GFG,5,2,2,1,167,No,1491,C++,Queue,Interview prep
+24-02-2026,LeetCode,3,0,3,0,128,No,1491,C++,Stack,Mixed practice set
+25-02-2026,Codeforces,5,2,3,0,127,No,1491,Python,Backtracking,Topic-wise practice
+26-02-2026,GFG,3,1,2,0,103,No,1491,C++,Two Pointers,Mixed practice set
+28-02-2026,LeetCode,3,1,2,0,71,Yes,1513,Python,Trees,Strong problem solving day
+01-03-2026,Codeforces,6,2,4,0,197,No,1515,Python,Backtracking,Improved speed
+03-03-2026,LeetCode,2,2,0,0,48,No,1517,Python,Sliding Window,Strong problem solving day
+04-03-2026,LeetCode,4,3,1,0,111,No,1517,C++,Sliding Window,Contest upsolve
+05-03-2026,LeetCode,2,0,2,0,61,No,1517,C++,Greedy,Improved speed
+07-03-2026,GFG,5,0,5,0,201,No,1517,Python,Heap,Improved speed
+08-03-2026,Codeforces,4,2,2,0,127,No,1517,C++,Greedy,Low energy but consistent
+09-03-2026,LeetCode,2,0,2,0,78,No,1517,C++,Heap,Improved speed
+10-03-2026,Codeforces,2,2,0,0,56,No,1519,C++,Bit Manipulation,Improved speed
+12-03-2026,LeetCode,3,1,2,0,95,No,1519,C++,Trees,Solved revision problems
+13-03-2026,LeetCode,2,0,2,0,51,No,1519,C++,Queue,Practiced patterns
+14-03-2026,LeetCode,4,3,1,0,87,Yes,1511,C++,DP,Contest upsolve
+15-03-2026,LeetCode,7,2,5,0,220,Yes,1496,C++,Trees,Contest upsolve
+16-03-2026,LeetCode,4,0,4,0,128,No,1496,C++,Binary Search,Low energy but consistent
+17-03-2026,LeetCode,2,2,0,0,58,No,1496,C++,Trees,Debugging practice
+18-03-2026,GFG,4,3,1,0,84,No,1496,Python,Recursion,Revised old questions
+19-03-2026,LeetCode,2,1,1,0,60,No,1498,C++,Queue,Revised old questions
+20-03-2026,Codeforces,1,1,0,0,25,No,1498,Python,DP,Revised old questions
+21-03-2026,LeetCode,4,1,3,0,138,Yes,1526,C++,Queue,Improved speed
+22-03-2026,LeetCode,3,2,1,0,92,No,1526,C++,Trees,Revised old questions
+23-03-2026,GFG,4,2,1,1,120,No,1526,C++,Arrays,Improved speed
+24-03-2026,LeetCode,4,0,4,0,140,No,1526,C++,Queue,Solved revision problems
+25-03-2026,Codeforces,3,0,3,0,66,No,1526,C++,Greedy,Strong problem solving day
+26-03-2026,LeetCode,3,0,3,0,90,No,1526,C++,Hashing,Mixed practice set
+27-03-2026,LeetCode,4,0,4,0,119,No,1526,C++,Bit Manipulation,Contest upsolve
+28-03-2026,LeetCode,2,0,2,0,58,No,1526,Python,Greedy,Debugging practice
+29-03-2026,LeetCode,3,1,2,0,98,Yes,1518,C++,Bit Manipulation,Revised old questions
+30-03-2026,Codeforces,6,3,3,0,176,Yes,1524,C++,Recursion,Mixed practice set
+31-03-2026,LeetCode,4,3,1,0,113,No,1525,C++,Binary Search,Practiced patterns
+01-04-2026,GFG,1,1,0,0,26,No,1525,C++,Linked List,Interview prep
+02-04-2026,GFG,4,1,3,0,119,No,1525,C++,Hashing,Interview prep
+03-04-2026,Codeforces,4,1,3,0,112,No,1525,C++,Bit Manipulation,Debugging practice
+04-04-2026,GFG,4,0,3,1,120,No,1525,C++,Bit Manipulation,Improved speed
+05-04-2026,LeetCode,5,3,1,1,158,Yes,1541,C++,Recursion,Debugging practice
+06-04-2026,Codeforces,6,1,5,0,204,No,1541,C++,Strings,Interview prep
+07-04-2026,LeetCode,6,5,1,0,171,No,1541,C++,Graphs,Topic-wise practice
+09-04-2026,LeetCode,4,1,3,0,93,No,1541,Python,Linked List,Debugging practice
+10-04-2026,Codeforces,5,1,4,0,125,No,1541,C++,Graphs,Good focused session
+11-04-2026,GFG,6,0,6,0,219,Yes,1537,C++,Bit Manipulation,Topic-wise practice
+12-04-2026,GFG,4,0,4,0,104,Yes,1547,C++,Arrays,Low energy but consistent
+13-04-2026,LeetCode,5,1,3,1,161,No,1547,C++,Greedy,Strong problem solving day
+15-04-2026,LeetCode,4,0,4,0,134,No,1547,C++,Backtracking,Debugging practice
+16-04-2026,GFG,3,0,3,0,90,No,1550,Python,Queue,Improved speed
+17-04-2026,Codeforces,2,2,0,0,47,No,1550,C++,Binary Search,Low energy but consistent
+18-04-2026,GFG,5,4,1,0,116,Yes,1560,C++,Two Pointers,Low energy but consistent
+19-04-2026,Codeforces,5,4,1,0,113,Yes,1588,C++,Greedy,Interview prep
+20-04-2026,Codeforces,1,0,1,0,32,No,1588,C++,Graphs,Mixed practice set
+21-04-2026,GFG,1,1,0,0,34,No,1589,C++,DP,Revised old questions
+22-04-2026,LeetCode,7,5,1,1,178,No,1589,C++,Greedy,Solved revision problems
+23-04-2026,Codeforces,7,6,1,0,210,No,1589,C++,Two Pointers,Low energy but consistent
+25-04-2026,Codeforces,5,2,3,0,144,Yes,1599,C++,Hashing,Low energy but consistent
+26-04-2026,LeetCode,3,1,2,0,106,Yes,1591,C++,Two Pointers,Topic-wise practice
+27-04-2026,LeetCode,3,1,2,0,77,No,1591,C++,Strings,Contest upsolve
+28-04-2026,GFG,6,2,4,0,145,No,1594,C++,Linked List,Mixed practice set
+30-04-2026,LeetCode,4,2,1,1,99,No,1596,Python,Sliding Window,Solved revision problems
+01-05-2026,LeetCode,6,0,6,0,192,No,1596,Python,Heap,Debugging practice
+02-05-2026,GFG,5,1,4,0,174,No,1596,C++,Sorting,Practiced patterns
+03-05-2026,LeetCode,3,2,1,0,83,No,1596,C++,Recursion,Contest upsolve
+04-05-2026,LeetCode,6,2,4,0,151,No,1596,C++,Sliding Window,Mixed practice set
+05-05-2026,LeetCode,5,1,4,0,191,Yes,1588,C++,Greedy,Strong problem solving day
+06-05-2026,GFG,2,0,2,0,71,No,1588,C++,Hashing,Debugging practice
+07-05-2026,GFG,4,2,2,0,111,No,1588,C++,Graphs,Strong problem solving day
+08-05-2026,LeetCode,4,0,4,0,156,No,1588,C++,Arrays,Topic-wise practice
+09-05-2026,Codeforces,5,4,1,0,122,Yes,1604,C++,DP,Contest upsolve
+10-05-2026,GFG,1,0,1,0,33,No,1604,C++,Graphs,Contest upsolve
+11-05-2026,LeetCode,3,1,2,0,98,No,1607,C++,Recursion,Low energy but consistent
+12-05-2026,GFG,2,1,1,0,60,No,1607,Python,Backtracking,Improved speed
+13-05-2026,GFG,2,1,1,0,56,No,1607,Python,Hashing,Practiced patterns
+14-05-2026,GFG,1,0,1,0,25,No,1607,Python,Binary Search,Topic-wise practice
+15-05-2026,LeetCode,4,2,2,0,87,No,1607,C++,DP,Revised old questions
+16-05-2026,LeetCode,7,3,4,0,221,Yes,1592,C++,Queue,Mixed practice set
+17-05-2026,GFG,4,2,1,1,149,No,1592,C++,Hashing,Topic-wise practice
+18-05-2026,LeetCode,4,3,1,0,95,No,1592,C++,Linked List,Debugging practice
+19-05-2026,GFG,4,0,4,0,124,No,1592,C++,Graphs,Low energy but consistent
+21-05-2026,LeetCode,3,0,3,0,118,No,1592,C++,Greedy,Revised old questions
+22-05-2026,Codeforces,5,3,1,1,156,No,1592,C++,Binary Search,Good focused session
+23-05-2026,GFG,3,0,3,0,105,No,1592,C++,Graphs,Improved speed
+24-05-2026,Codeforces,3,2,1,0,63,No,1593,C++,Hashing,Topic-wise practice
+25-05-2026,LeetCode,2,2,0,0,50,No,1593,C++,Queue,Practiced patterns
+26-05-2026,LeetCode,3,0,3,0,120,No,1593,C++,Graphs,Revised old questions
+27-05-2026,LeetCode,7,0,6,1,232,No,1593,C++,Backtracking,Interview prep
+28-05-2026,LeetCode,4,3,1,0,106,No,1593,C++,Queue,Mixed practice set
+29-05-2026,LeetCode,2,1,1,0,60,No,1593,Python,DP,Strong problem solving day
+31-05-2026,LeetCode,3,0,3,0,65,No,1593,C++,Linked List,Good focused session
+01-06-2026,GFG,3,1,2,0,107,No,1593,C++,Trees,Interview prep
+02-06-2026,LeetCode,5,2,2,1,176,No,1593,C++,Bit Manipulation,Improved speed
+04-06-2026,LeetCode,2,2,0,0,65,No,1596,C++,DP,Debugging practice
+05-06-2026,LeetCode,1,0,1,0,45,No,1596,C++,Graphs,Contest upsolve
+06-06-2026,LeetCode,4,1,3,0,118,Yes,1588,C++,Bit Manipulation,Good focused session
+07-06-2026,GFG,3,2,1,0,105,No,1590,C++,Linked List,Topic-wise practice

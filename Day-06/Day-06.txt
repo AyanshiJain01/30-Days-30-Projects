@@ -1,0 +1,255 @@
+						   		 Day 06 - Coding Activity Analyzer
+ 
+:- Project Overview
+
+Aaj hum ek Coding Activity Analyzer build kar rahe hain jo 6 months ke coding activity data ko analyze karega.
+
+Is project ka goal hai coding practice ko track karna aur meaningful insights nikalna jaise:
+
+Total questions solved
+Coding consistency
+Longest coding streak
+Strongest topics
+Platform performance
+Rating growth
+Monthly progress
+Burnout detection
+Productivity trends
+
+>Dataset Overview
+
+Humne ek realistic dataset generate kiya hai jisme:
+
+Dataset Size
+Around 6 months data
+~165 active coding days
+600+ solved questions
+
+Dataset Columns:-
+
+Column			Description
+date			Coding activity date
+platform		LeetCode / GFG / Codeforces
+problems_solved		Total questions solved
+easy			Easy questions
+medium			Medium questions
+hard			Hard questions
+time_spent_minutes	Coding time
+contest_given		Contest participated or not
+rating	Coding		rating
+language		C++ / Python
+topic			Topic practiced
+
+Technologies Used:-
+
+Python
+Main programming language
+
+Pandas
+Dataset analysis and manipulation
+
+Matplotlib
+Charts and visualizations
+
+Streamlit
+Interactive dashboard
+
+Plotly
+Interactive graphs inside dashboard
+
+What Are We Analyzing?
+
+1. Basic Coding Statistics
+
+We will calculate:
+
+-Total Problems Solved
+-Total Coding Hours
+-Average Problems Per Day
+-Average Coding Time
+-Total Contests Given
+
+Purpose:
+To understand overall coding activity.
+
+2️. Longest Coding Streak
+
+Question:
+How many consecutive days did the user code?
+
+Example:
+
+Day 1 ✅
+Day 2 ✅
+Day 3 ✅
+Day 4 ❌
+
+Longest Streak = 3 Days
+
+Purpose:
+Measure consistency.
+
+3️. Productivity Analysis
+
+We will find:
+Best Coding Day
+Worst Coding Day
+Most Productive Weekday
+
+Example:
+
+Sunday = 10 problems
+Monday = 2 problems
+
+Output:
+Most Productive Day = Sunday
+
+Purpose:
+Identify peak performance days.
+
+4️. Topic Strength Analysis
+
+We will calculate:
+Arrays = 60
+DP = 45
+Graphs = 22
+Trees = 18
+
+Output:
+Strongest Topic = Arrays
+
+Weakest Topic = Trees
+
+Purpose:
+Understand strong and weak areas.
+
+5️. Platform Performance Analysis
+
+We will analyze:
+LeetCode
+GFG
+Codeforces
+
+Output:
+LeetCode = 56%
+GFG = 28%
+Codeforces = 16%
+
+Purpose:
+Identify most used platform.
+
+6️. Difficulty Analysis
+
+We will compare:
+Easy
+Medium
+Hard
+
+Output:
+Easy = 240
+Medium = 280
+Hard = 85
+
+Purpose:
+Understand problem difficulty distribution.
+
+7️. Difficulty Trend Analysis
+
+Month-wise analysis:
+January
+Easy = 40
+Medium = 15
+Hard = 2
+
+May
+Easy = 20
+Medium = 30
+Hard = 10
+
+Insight:
+User gradually moved from Easy to Hard problems.
+
+Purpose:
+Measure growth in problem-solving level.
+
+8️. Monthly Growth Analysis
+
+Month-wise solved questions:
+January = 50
+February = 72
+March = 95
+April = 110
+May = 130
+
+Purpose:
+Track coding improvement over time.
+
+Insight:
+Coding consistency improved significantly.
+
+9️. Contest Analysis
+
+We will analyze:
+Contest Count
+Starting Rating
+Current Rating
+Rating Growth
+Best Contest
+Worst Contest
+
+Example:
+Starting Rating = 1400
+Current Rating = 1680
+Growth = +280
+
+Purpose:
+Measure competitive programming progress.
+
+10. Time vs Problems Analysis
+
+Question:
+Does spending more time lead to solving more questions?
+
+We calculate correlation.
+
+Output:
+Correlation = 0.72
+
+Meaning:
+Higher time generally leads to higher productivity.
+
+Purpose:
+Understand relationship between effort and output.
+
+1️1️. Burnout Detection
+
+Special Feature 🔥
+
+Rule:
+Time Spent > 120 min
+Problems Solved <= 2
+
+Output:
+Potential Burnout Day Detected
+
+Purpose:
+Identify days where effort was high but output was low.
+
+
+
+Visualizations Generated:-
+
+The project automatically creates:
+
+-Weekday Analysis Chart
+-Time vs Problems Scatter Plot
+-Topic Strength Chart
+-Platform Performance Chart
+-Difficulty Distribution Pie Chart
+-Difficulty Trend Chart
+-Monthly Growth Chart
+-Rating Growth Chart
+-Daily Problems Trend Chart
+-Burnout Analysis Chart
+
+
